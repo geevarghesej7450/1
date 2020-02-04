@@ -1,0 +1,20 @@
+classes are basically templates 
+object is a instance of a class
+static meathod / static attribute 
+
+static methods can not access objects level members, must create object
+
+do and while loop are postface?
+
+| boolean logical inclusive OR
+^ boolean logical exclosive OR
+& boolean logical and
+&& and || or ! not
+
+method overload only happens in the same class
+
+array list can only hold primiative types
+
+DO NOT USE ARRAY . SORT :(
+
+subclass inherts all of the attributes and methods but no constructor 
