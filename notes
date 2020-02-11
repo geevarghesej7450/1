@@ -18,3 +18,29 @@ array list can only hold primiative types
 DO NOT USE ARRAY . SORT :(
 
 subclass inherts all of the attributes and methods but no constructor 
+
+only methods have polomorphism 
+
+poloymorphims allows the programmer to program in general rather than program in specific
+
+cant use abstract class to create objects 
+
+public abstract void draw(); //abstract method 
+
+methods defined in the interface at default are public 
+
+try {} catch {} finally {}
+try does not need to have catch 
+if you use exit statement the finally block will not be exectuted 
+
+we have to take care of all errors that are not runtime exceptions 
+untracked exceptions 
+
+catch or throw exceptions 
+methodA() throws SQLExceptions { statement 1; } 
+methodB() throws Exception { methodA(); } 
+
+can have multiple exceptions but must have superclass "eception" after subclass "exception A / exception B"
+
+public > protected > default > private 
+biggest to smallest 
