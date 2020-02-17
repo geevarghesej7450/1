@@ -1,3 +1,5 @@
+//Count the number of digits in enterted value
+
 Console.WriteLine("Enter Value");
 int n = int.parse(Console.ReadLine());
 int num = n;
