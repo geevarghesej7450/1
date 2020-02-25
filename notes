@@ -50,3 +50,4 @@ user -> id, name, password, tag1, tag2
 attraction -> name, city, state, description, tag, score?, status (available or not)
 review -> id, attraction name, user id, scores(float), comments, dateTime(varchar)
 favorates -> user id, attraction name, 
+600 lines of code for first submission 
