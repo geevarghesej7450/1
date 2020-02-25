@@ -44,3 +44,9 @@ can have multiple exceptions but must have superclass "eception" after subclass 
 
 public > protected > default > private 
 biggest to smallest 
+
+tables to make for personal project 2/24/20
+user -> id, name, password, tag1, tag2
+attraction -> name, city, state, description, tag, score?, status (available or not)
+review -> id, attraction name, user id, scores(float), comments, dateTime(varchar)
+favorates -> user id, attraction name, 
